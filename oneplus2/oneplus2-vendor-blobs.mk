@@ -306,18 +306,9 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libmm-abl-oem.so:/system/vendor/lib/libmm-abl-oem.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libmm-als.so:/system/vendor/lib/libmm-als.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libmm-qdcm.so:/system/vendor/lib/libmm-qdcm.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libdiag.so:/system/vendor/lib/libdiag.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libdsutils.so:/system/vendor/lib/libdsutils.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libmdmdetect.so:/system/vendor/lib/libmdmdetect.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libqcci_legacy.so:/system/vendor/lib/libqcci_legacy.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi.so:/system/vendor/lib/libqmi.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_client_qmux.so:/system/vendor/lib/libqmi_client_qmux.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmiservices.so:/system/vendor/lib/libqmiservices.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libdsi_netctrl.so:/system/vendor/lib/libdsi_netctrl.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libidl.so:/system/vendor/lib/libidl.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libqdi.so:/system/vendor/lib/libqdi.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libqdp.so:/system/vendor/lib/libqdp.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_cci.so:/system/vendor/lib/libqmi_cci.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_client_helper.so:/system/vendor/lib/libqmi_client_helper.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_common_so.so:/system/vendor/lib/libqmi_common_so.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_csi.so:/system/vendor/lib/libqmi_csi.so \
@@ -417,18 +408,9 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libmm-abl-oem.so:/system/vendor/lib64/libmm-abl-oem.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libmm-als.so:/system/vendor/lib64/libmm-als.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libmm-qdcm.so:/system/vendor/lib64/libmm-qdcm.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libdiag.so:/system/vendor/lib64/libdiag.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libdsutils.so:/system/vendor/lib64/libdsutils.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libmdmdetect.so:/system/vendor/lib64/libmdmdetect.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqcci_legacy.so:/system/vendor/lib64/libqcci_legacy.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi.so:/system/vendor/lib64/libqmi.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi_client_qmux.so:/system/vendor/lib64/libqmi_client_qmux.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmiservices.so:/system/vendor/lib64/libqmiservices.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libdsi_netctrl.so:/system/vendor/lib64/libdsi_netctrl.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libidl.so:/system/vendor/lib64/libidl.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqdi.so:/system/vendor/lib64/libqdi.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqdp.so:/system/vendor/lib64/libqdp.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi_cci.so:/system/vendor/lib64/libqmi_cci.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi_client_helper.so:/system/vendor/lib64/libqmi_client_helper.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi_common_so.so:/system/vendor/lib64/libqmi_common_so.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqmi_csi.so:/system/vendor/lib64/libqmi_csi.so \

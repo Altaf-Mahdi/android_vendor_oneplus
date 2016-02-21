@@ -37,4 +37,16 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libtime_genoff
 
+PRODUCT_PACKAGES += \
+    libwpa_qmi_eap_proxy \
+    libdiag \
+    libdsutils \
+    libidl \
+    libmdmdetect \
+    libqcci_legacy \
+    libqmi_cci \
+    libqmi_client_qmux \
+    libqmiservices \
+    libqmi
+
 $(call inherit-product, vendor/oneplus/oneplus2/oneplus2-vendor-blobs.mk)
